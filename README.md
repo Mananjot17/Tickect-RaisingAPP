@@ -193,25 +193,4 @@ A smart ticket management system that uses AI to automatically categorize, prior
    - Check SMTP settings
    - Monitor email delivery logs
 
-## 📚 Dependencies
 
-- `@inngest/agent-kit`: ^0.7.3
-- `bcrypt`: ^5.1.1
-- `cors`: ^2.8.5
-- `dotenv`: ^16.5.0
-- `express`: ^5.1.0
-- `inngest`: ^3.35.0
-- `jsonwebtoken`: ^9.0.2
-- `mongoose`: ^8.13.2
-- `nodemailer`: ^6.10.1
-
-## 🤝 Contributing
-
-we don't accept contributions for this project, as this is a part of a video and code files needs to given as it is.
-
-## 🙏 Acknowledgments
-
-- Inngest for background job processing
-- Google Gemini for AI capabilities
-- Mailtrap for email testing
-- MongoDB for database
